@@ -1,4 +1,5 @@
 # FE-SPK-pegawai-terbaik-SAW-NuxtJS
+* Frontend untuk aplikasi Sistem Pendukung Keputusan penentuan pegawai terbaik menggunakan metode Simple Additive Weighting
 
 ## Framework yang digunakan : 
 * Nuxt JS
