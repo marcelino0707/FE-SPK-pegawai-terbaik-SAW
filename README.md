@@ -1,6 +1,9 @@
-# spk-nuxt-js
+# FE-SPK-pegawai-terbaik-SAW-NuxtJS
 
-## Build Setup
+## Framework yang digunakan : 
+* Nuxt JS
+
+### Build Setup
 
 ```bash
 # install dependencies
