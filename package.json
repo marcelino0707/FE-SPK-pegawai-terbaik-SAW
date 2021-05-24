@@ -1,0 +1,29 @@
+{
+  "name": "spk-nuxt-js",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/auth-next": "5.0.0-1616003482.75c20e6",
+    "@nuxtjs/axios": "^5.13.1",
+    "bootstrap-vue": "^2.21.2",
+    "chart.js": "^2.9.4",
+    "core-js": "^3.9.1",
+    "file-saver": "^2.0.5",
+    "hchs-vue-charts": "^1.2.8",
+    "jspdf": "^2.3.1",
+    "jspdf-autotable": "^3.5.14",
+    "nuxt": "^2.15.3",
+    "vue-chartjs": "^3.5.1",
+    "vue-chartjs-exporter": "^1.0.2",
+    "xlsx": "^0.17.0"
+  },
+  "devDependencies": {
+    "script-loader": "^0.7.2"
+  }
+}
